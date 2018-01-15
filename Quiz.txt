@@ -1,0 +1,35 @@
+//Question 1
+no because it is a constant variable
+
+//Question 2
+change the let to a var like so: 
+    var fred = Giant(name: "Fred", weight: 340.0, homePlanet: "Earth")
+
+//Question 3
+no because it is a constant variable
+
+//Question 4
+change the let to a var like so: 
+    var bilbo = Alien(name: "Bilbo", height: 1.67, homePlanet: "Venus")
+
+//Question 5
+edgar.name = jason.name = "Jason"
+
+//Question 6
+charles.homePlant = "Pluto"
+charlesFromJupiter.homePlanet = "Jupiter"
+
+//Question 7
+no, you have to make both methods mutating
+
+//Question 8
+add mutating keyword in front of both functions
+
+//Question 9
+joeAccount.balance = 50
+joeOtherAccount.balance = 100
+
+//Question 10
+library1.tracks = ["Michelle","Voodoo Child"]
+library2.tracks = ["Michelle","Voodoo Child","Come As You Are"]
+
